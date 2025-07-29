@@ -1,0 +1,26 @@
+{
+    "p1":{
+        "name":"John",
+        "age":30,
+        "city":"New York",
+        "is_student":false
+    },
+    "p2":{
+        "name":"Jane",
+        "age":25,
+        "city":"Los Angeles",
+        "is_student":true
+    },
+    "p3":{
+        "name":"Mike",
+        "age":35,
+        "city":"Chicago",
+        "is_student":false
+    },
+    "p4":{
+        "name":"Emily",
+        "age":28,
+        "city":"Houston",
+        "is_student":true
+    }
+}
